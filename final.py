@@ -11,3 +11,20 @@ average, display the number of grades, and percent of grades above
 average.
 
 """
+
+"""
+calculate_percent_above_average()
+infile = open
+grades = line in infile
+infile close
+loop number of grades
+average grades sum of grades / length
+loop grade scores
+if grade > average 
+print number of grades 
+print average grade 
+print percent of grades above average
+
+
+main()
+"""
